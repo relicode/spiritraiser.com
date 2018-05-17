@@ -1,0 +1,22 @@
+{
+  "short_name": "Spiritraiser",
+  "name": "Spiritraiser Home Page",
+  "icons": [
+    {
+      "src": "assets/images/spiritraiser-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/images/spiritraiser-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#000000",
+  "display": "browser",
+  "scope": "/index.html",
+  "theme_color": "#4285f4"
+}
+
